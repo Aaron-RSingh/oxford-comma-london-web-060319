@@ -1,7 +1,3 @@
-#def oxford_comma(array)
-
-#end
-
 def oxford_comma(array)
    if array.length == 1
       #join method convers array's elements to string
